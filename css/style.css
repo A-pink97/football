@@ -1,0 +1,9 @@
+.container{
+    margin: 0;
+    width: 1140px;
+}
+.box{
+    width: 68px;
+    height: 105px;
+    background-image: url('../images/ball.jpg'), url('../images/sta.jpg');
+}
